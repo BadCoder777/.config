@@ -1,0 +1,1 @@
+/home/bad-coder/.local/share/omf/themes/boxfish/fish_prompt.fish

@@ -1,0 +1,10 @@
+# GIMP gimp-airbrush-tool options
+
+(dynamics "Pressure Size")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 51)
+(brush-hardness 0.75)
+
+# end of gimp-airbrush-tool options
